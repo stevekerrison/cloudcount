@@ -1,7 +1,8 @@
 cloudcount
 ==========
 
-A bookmarklet to count how many times cloud is mentioned in the body of a web page, because every loves cloud.
+A bookmarklet to count how many times cloud is mentioned in the body of a web
+page, because everybody loves cloud.
 
 Demonstration: http://stevekerrison.com/cloudcount.html
 
